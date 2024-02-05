@@ -2,7 +2,7 @@
 
 
 
-<img src="https://github.com/hetvi-1905/hetvi-1905/assets/84613393/39862813-081f-4c59-99af-bcaf3e07b8dc" style="max-width: 1500px ;max-height:1200px% display: inline-block;" data-target="animated-image.originalImage">
+<img src="https://github.com/hetvi-1905/hetvi-1905/assets/84613393/39862813-081f-4c59-99af-bcaf3e07b8dc" style="max-width: 1000px ;max-height:750px% display: inline-block;" data-target="animated-image.originalImage">
 
 
 
