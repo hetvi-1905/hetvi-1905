@@ -10,6 +10,7 @@
 
 
 <p align="center">
-
+<samp>
 I am currently pursuing my Bachelors from GCET, Gujarat, India. I am a Data Science Enthusiast, trying to make every effort to improve my technical, analytical, and soft skills for personal development, as well as to be a meaningful contributor to technological field in order to become an excellent professional in the field of Data Science & AI.
+</samp>
 </p>
