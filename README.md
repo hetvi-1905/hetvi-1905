@@ -3,8 +3,8 @@
 
 
 <p align="center">
-<!--     <img src="https://github.com/hetvi-1905/hetvi-1905/assets/84613393/39862813-081f-4c59-99af-bcaf3e07b8dc" style="width: 700px ;height:500px% ;" > -->
-    ![image](https://github.com/user-attachments/assets/d9f198f2-88ac-44c6-ad17-802900e5b8f7)
+    <img src="https://github.com/user-attachments/assets/d9f198f2-88ac-44c6-ad17-802900e5b8f7" style="width: 500px ;height:200px% ;" >
+<!--     ![image](https://github.com/user-attachments/assets/d9f198f2-88ac-44c6-ad17-802900e5b8f7) -->
 
 </p>
 
